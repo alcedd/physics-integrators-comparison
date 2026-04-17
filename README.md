@@ -66,7 +66,7 @@ This matches theoretical expectations.
 Make sure dependencies are installed:
 
 - GLFW
-- GLAD
+- GLAD (add glad.c file to your src folder)
 - GLM
 - OpenGL
 
