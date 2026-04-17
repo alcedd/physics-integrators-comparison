@@ -35,7 +35,7 @@ Energy is computed as:
 
 E = kinetic + potential
 
-This allows direct comparison of numerical error accumulation.
+This allows direct comparison of numerical error accumulation (as energy is conserved in isolated system, providing no nonconservative forces exist in the system).
 
 ---
 
